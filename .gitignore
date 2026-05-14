@@ -1,0 +1,105 @@
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ===============================
+# Virtual Environments
+# ===============================
+.env
+.env.*
+venv/
+env/
+.venv/
+ENV/
+
+# ===============================
+# Jupyter Notebook
+# ===============================
+.ipynb_checkpoints/
+*.ipynb_meta
+
+# ===============================
+# Data (raw & processed)
+# ===============================
+data/raw/
+data/processed/
+data/interim/
+data/external/
+
+# Optional large data formats (uncomment if needed)
+# *.csv
+# *.parquet
+# *.feather
+# *.pkl
+# *.pickle
+# *.xlsx
+
+# ===============================
+# Secrets & Credentials
+# ===============================
+secrets.json
+secrets.yaml
+credentials.json
+token.json
+*.key
+*.pem
+
+# ===============================
+# IDE / Editor
+# ===============================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.spyproject/
+
+# ===============================
+# OS Files
+# ===============================
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+
+# ===============================
+# Logs & Reports
+# ===============================
+*.log
+logs/
+reports/temp/
+
+# ===============================
+# ML / Data Science Artifacts
+# ===============================
+models/
+mlruns/
+*.joblib
+*.model
+*.h5
+*.pkl
+
+# ===============================
+# Databases
+# ===============================
+*.db
+*.sqlite
+*.sqlite3
+
+# ===============================
+# Temporary Files
+# ===============================
+tmp/
+temp/
+output/
+*.tmp
+*.bak
+*.swp
