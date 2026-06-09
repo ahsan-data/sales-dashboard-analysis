@@ -74,5 +74,5 @@ Period: Jan–Dec 2023
 ------------------------------------------------------------
 Ahsan Chowdhury
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/ahsan-chowdhury-da
 Portfolio: https://yourportfolio.com
